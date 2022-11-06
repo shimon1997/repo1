@@ -1,1 +1,1 @@
-print("mashu")
+print("mash")
